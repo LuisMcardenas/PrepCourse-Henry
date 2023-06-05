@@ -1,2 +1,1 @@
-Luis Miguel Cárdenas
-este proyecto es una prueba
+Este es un proyecto de prueba por Luis Miguel Cardenas
